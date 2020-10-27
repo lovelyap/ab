@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: cadetblue;
+width: 100%;
+}
+.container{
+   
+    max-width: 60%;
+    margin: auto;
+    padding-top: 100px; 
+    padding-left: 120px;
+   
+}
+.info{
+background-color: mediumblue;
+float: left;
+width: 30%;
+padding: 30px;
+height: 400px;
+       
+}
+.info h1{
+    color: white;
+    text-align: center;
+}
+.info p{
+    color: white;
+    margin-top: 10px;
+}
+.regis{
+background-color: white;
+float: left;
+width: 30%;
+padding: 30px;
+height: 400px;
+}
+.regis h1{
+    color: blue;
+    text-align: center;
+}
+
+.fs-name{
+    
+        width: 50%;
+        float: left;
+        padding: 10px 0;
+        
+    }
+    .Ls-name{
+        width: 50%;
+        float: left;
+        padding: 10px 0;
+        
+    }
+    .mail{
+       width: 100%; 
+       float: left;
+    }
+    .pass{
+        width: 50%;
+        float: left;
+        padding: 20px 0;
+    }
+    .con-pass{
+        width: 50%;
+        float: left;
+        padding: 20px 0;
+    }
+    .Register{
+        
+       
+        padding: 20px;
+    }
